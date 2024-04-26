@@ -30,5 +30,7 @@ def check_user_exist(userinfo: telebot.types.Message) -> bool:
 def register_user(userinfo: telebot.types.Message) -> bool:
     pass
 
+def add_schedule(userinfo: telebot.types.Message) -> bool:
+    pass
 
 ...
